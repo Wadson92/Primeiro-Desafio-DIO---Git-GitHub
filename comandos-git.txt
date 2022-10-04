@@ -1,0 +1,7 @@
+Comandos Git:
+
+git clone --> Clona um repositório
+git add . --> Adiciona tudo o que estiver na modified para a staging area
+git commit -m --> Adiciona um comentário na nova versão do arquivo
+git push --> Envia a versão do repositório local para o remoto
+git pull --> baixa as ultimas atualizações do repositório remoto para o local
